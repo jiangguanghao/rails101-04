@@ -15,4 +15,4 @@
 //= require turbolinks
 //= require bootstrap/alert
 //= require_tree .
-//= reuire bootstrap/dropdown
+//= require bootstrap/dropdown
